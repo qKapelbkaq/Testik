@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\Rabota.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\Rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\Rabota.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\Rabota.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\Rabota.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Rabota\bin\Debug\net7.0\Rabota.exe
+C:\Users\Admin\source\repos\Rabota\bin\Debug\net7.0\Rabota.deps.json
+C:\Users\Admin\source\repos\Rabota\bin\Debug\net7.0\Rabota.runtimeconfig.json
+C:\Users\Admin\source\repos\Rabota\bin\Debug\net7.0\Rabota.dll
+C:\Users\Admin\source\repos\Rabota\bin\Debug\net7.0\Rabota.pdb
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\Rabota.dll
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\refint\Rabota.dll
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\Rabota.pdb
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\Rabota.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Rabota\obj\Debug\net7.0\ref\Rabota.dll
